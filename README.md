@@ -1,4 +1,4 @@
-# Olá! Sou o Everton, seja bem vindo.
+# Olá! Sou o Everton, estou em evolução.
 <div>
   <a href="https://github.com/Everton-Hel">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Everton-Hel&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
