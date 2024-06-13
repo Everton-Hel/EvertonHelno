@@ -20,4 +20,4 @@
   <!-- <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
 </div><br/>
 
-![snake gif](https://github.com/YOUR_USERNAME/Everton-Hel/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Everton-Hel/Everton-Hel/blob/output/github-contribution-grid-snake.gif)
