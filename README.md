@@ -19,3 +19,5 @@
   <img align="center" alt="python-original-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <!-- <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
 </div><br/>
+
+![snake gif](https://github.com/YOUR_USERNAME/Everton-Hel/blob/output/github-contribution-grid-snake.gif)
