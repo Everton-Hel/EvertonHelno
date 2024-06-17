@@ -2,20 +2,24 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Everton+Heleno!;&center=true&size=30">
   </a>
-</h1>
-
-<br>
+</h1><br>
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 <p align="center">
-  Hi,  I'am Everton, i'm in programming evolution , 👨‍💻 from Brazil.
+  Hi,  I'am Everton, i'm in programming evolution , 👨‍💻 from Brazil. <br>
   <br>
-  <br>
-  🎓 completed my degree in digital games
-  <br>
-  💻 I love new technologies and robotics.🤖
-  <br>
-  🧑‍💼 I’m currently work as a Developer at Idemia
-  <br>
+  🎓 completed my degree in digital games <br>  
+  💻 I love new technologies and robotics.🤖 <br>  
+  🧑‍💼 I’m currently work as a Developer at Idemia <br>
 </p>
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<hr>
+  <h2 align="center"> Languages-Learning </h2> <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,python,javascript,html,arduino,cpp,vscode" /><br>
+  </a>
+  <br>
+ 
+<br>
 
 #
 <div>
@@ -31,10 +35,7 @@
   <a href="https://web.telegram.org/z/#906565245" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div> 
 
-# Tecnologia que uso
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="python-original-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <!-- <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> -->
-</div><br/>
+
+
 
