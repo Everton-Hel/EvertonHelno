@@ -22,7 +22,7 @@
   <img src="https://github.com/Everton-Hel/Everton-Hel/assets/77762930/1c0ed566-77ee-40cf-9bbb-46191d16ab12" width="60px" />
 </div><br>
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">🚦 Estatísticas 🚦</h2>
 <br>
 <p align=center>
   <div align=center>
