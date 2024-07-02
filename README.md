@@ -47,9 +47,17 @@
     </a>
   </div> <br> <br> <br>
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-
-
-
-
-
-
+<!-- CONHECIMENTO GERAL - FONTE DE PESQUISA - SITES UTILIZADOS
++
++ https://www.youtube.com/watch?v=oMFiGEZ6UlQ (como adicionar imagem no GH)
++ https://www.youtube.com/watch?v=UBAX-13g8OM&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8 (curso rápido YouTube)
++ https://github.com/KushalTanna24/KushalTanna24/blob/main/README.md (Exemplo pesquisado)
++ https://docs.github.com/pt (Doc GH)
++ https://github.com/anuraghazra/github-readme-stats (Documentação GH)
++ https://skillicons.dev/ (Skill Icons)
++ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list (Skill Icons GH)
++ https://emojipedia.org/travel-places (Emoji para pesquisar)
++ https://simpleicons.org/?q=prom (Imagens de Icones variados)
++
+-->
+<!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
