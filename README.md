@@ -58,6 +58,7 @@
 + https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list (Skill Icons GH)
 + https://emojipedia.org/travel-places (Emoji para pesquisar)
 + https://simpleicons.org/?q=prom (Imagens de Icones variados)
++ https://github.com/denvercoder1/github-readme-streak-stats (Ações pesquisa)
 +
 -->
 <!-- +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
