@@ -35,7 +35,7 @@
     <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Everton-Hel&theme=github-dark-dimmed&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak"/>  </a>
     <a href="https://github.com/Everton-Hel">
-    <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Everton-Hel&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+    <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=Everton-Hel&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
     </a>
   </div> <br><br><br><br><br><br><br><br><br>
   <div align=center>
